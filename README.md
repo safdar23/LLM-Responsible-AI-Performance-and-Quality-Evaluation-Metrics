@@ -22,7 +22,7 @@ These metrics assess the quality and coherence of the generated content, includi
 Azure AI identifies content and security risks, including contents related to hateful, unfair, sexual, violent, self-harm, and jailbreak defects. Azure responsible AI scores these contents severity across (very Low (0–1), Low (2–3), Medium (4–5) and High (6–7). High (6–7) is the extremely rated content. For detailed information, please visit Evaluation and monitoring metrics for generative AI - Azure AI Studio | Microsoft Learn
 
 
-# Note book 
+ 
 We will use promptflow SDK to implement the above stated Performance, Quality, and Responsible AI metrics. This repo has two json files with responsible ai and quality data and a notebook to run through the process
 
 
