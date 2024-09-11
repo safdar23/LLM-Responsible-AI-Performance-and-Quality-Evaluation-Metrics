@@ -9,9 +9,8 @@ We will use promptflow SDK to implement the above stated Performance, Quality, a
 1) The Performance and Quality metrics will need access to Azure Open AI models, please provide the model related configuration in the notebook
 2) The Responsible AI metrics will need access to Azure AI Studio, please provide the configuration in the notebook
 
-# Puprpose
-The purpose of this notebook is to run the LLM evaluations across quality and responsible AI metrics for QA and chat session scenarios
 
+# Gen AI metrics overview
 Large language models metrics can be measured using the below measurement methods for question-answering and conversation generative AI applications:
 
 **Traditional Machine Learning Metrics**
@@ -33,6 +32,9 @@ These metrics assess the quality and coherence of the generated content, includi
 # AI Assisted: Responsible AI Metrics
 Azure AI identifies content and security risks, including contents related to hateful, unfair, sexual, violent, self-harm, and jailbreak defects. Azure responsible AI scores these contents severity across (very Low (0–1), Low (2–3), Medium (4–5) and High (6–7). High (6–7) is the extremely rated content. For detailed information, please visit Evaluation and monitoring metrics for generative AI - Azure AI Studio | Microsoft Learn
 
+
+# Summary
+The purpose of this notebook is to run the LLM evaluations across quality and responsible AI metrics for QA and chat session scenarios
 
 
 
