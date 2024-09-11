@@ -4,10 +4,13 @@
 
 We will use promptflow SDK to implement the above stated Performance, Quality, and Responsible AI metrics. This repo has two json files with responsible ai and quality data and a notebook to run through the process.
 
-**Prerequisites
+# Prerequisites
 
 1) The Performance and Quality metrics will need access to Azure Open AI models, please provide the model related configuration in the notebook
 2) The Responsible AI metrics will need access to Azure AI Studio, please provide the configuration in the notebook
+
+# Puprpose
+The purpose of this notebook is to run the LLM evaluations across quality and responsible AI metrics for QA and chat session scenarios
 
 Large language models metrics can be measured using the below measurement methods for question-answering and conversation generative AI applications:
 
