@@ -7,6 +7,7 @@ Traditional Machine Learning Metrics
 AI-Assisted Metrics: These metrics evaluate AI-generated output, even when there is no predefined ground truth. These metrics are further  segregated into two types
 
 -- Performance and Quality Metrics
+
  -- Responsible AI metrics
  
 # Traditional Machine Learning Metrics
