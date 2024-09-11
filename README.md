@@ -6,11 +6,9 @@ Traditional Machine Learning Metrics
 
 AI-Assisted Metrics: These metrics evaluate AI-generated output, even when there is no predefined ground truth. These metrics are further  segregated into two types
 
+-- Performance and Quality Metrics
  -- Responsible AI metrics
  
- -- Performance and Quality Metrics
- 
-
 # Traditional Machine Learning Metrics
 
 These metrics, such as the F1 score, measure precision and recall by comparing AI-generated responses to expected answers. The F1-score measures the number of shared words between the generated response and the ground truth and calculated precision and recall. Precision is the ratio of the number of shared words to the total number of words in the generated response, and recall is the ratio of the number of shared words to the total number of words in the ground truth.
